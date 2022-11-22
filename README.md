@@ -2,7 +2,7 @@
 
 #1 Mob programming project 
 
-Create a business site using mob programming
+Create a business site using mob programming. Practicing mob programming principles.
 
 Tech focus:
 
